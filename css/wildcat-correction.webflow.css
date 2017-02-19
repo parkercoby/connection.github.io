@@ -394,7 +394,7 @@ p {
   font-weight: 700;
 }
 
-.firstbutton {
+#firstbutton {
     margin-top:3em;
     margin-left:47%;
     display: inline-block;
